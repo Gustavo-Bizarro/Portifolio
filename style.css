@@ -31,7 +31,7 @@ nav {
 }
 
 .portifolio span {
-    color: #f9004d;
+    color: #1d07ad;
 }
 
 li {
@@ -44,7 +44,7 @@ li {
 }
 
 li:hover {
-    color: #f9004d;
+    color: #1d07ad;
     transition: 0.5s;
 }
 
@@ -65,7 +65,7 @@ h1 {
 }
 
 h1 span {
-    color: #f9004d;
+    color: #1d07ad;
 }
 
 .meu-nome h3 {
@@ -83,7 +83,7 @@ section {
 section img {
     height: 400px;
     border-radius: 100%;
-    border: 2px solid #f9004d;
+    border: 2px solid #1d07ad;
     margin-right: 30px;
 }
 
@@ -101,7 +101,7 @@ section div p {
 
 section div button {
     color: white;
-    background: #f9004d;
+    background: #1d07ad;
     height: 50px;
     width: 180px;
     font-size: 18px;
@@ -112,7 +112,7 @@ section div button {
 
 section div button:hover {
     background-color: black;
-    border: 3px solid #f9004d;
+    border: 3px solid #1d07ad;
     transition: 0.5s;
 }
 
@@ -153,7 +153,7 @@ section div button:hover {
 }
 
 .card a {
-    background-color: #f9004d;
+    background-color: #1d07ad;
     color: white;
     padding: 10px 20px;
     border-radius: 25px;
@@ -164,7 +164,7 @@ section div button:hover {
 
 .card a:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #1d07ad;
 }
 
 .card-projetos{
@@ -205,7 +205,7 @@ footer p{
 }
 
 .social a{
-    background-color: #f9004d;
+    background-color: #1d07ad;
     border-radius: 50%;
     display: flex;
     align-items: center;
